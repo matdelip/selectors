@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
 
 html{
-    background-color: #841E62;
+    background-color: #58094f;
 }
 
 body {
     font-family:Arial,sans-serif;
-    background-color:#58094f;
+    background-color:#841E62;
     max-width:960px;
     width:90%;
     margin:auto;
@@ -52,5 +52,5 @@ footer.page-footer{
 legend a {
     font-weight: bold;
     font-size:x-large;
-    hover: #BEED76;
+legend a: hover: #BEED76;
 }
