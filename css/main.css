@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
 
 html{
-    background-color: dark purple;
+    background-color: #841E62;
 }
 
 body {
     font-family:Arial,sans-serif;
-    background-color:#fff;
+    background-color:#58094f;
     max-width:960px;
     width:90%;
     margin:auto;
