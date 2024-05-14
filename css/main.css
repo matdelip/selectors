@@ -52,5 +52,6 @@ footer.page-footer{
 legend a {
     font-weight: bold;
     font-size:x-large;
-legend a: hover: #BEED76;
+}
+legend a:link { #BEED76;
 }
