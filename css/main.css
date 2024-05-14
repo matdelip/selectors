@@ -53,5 +53,6 @@ legend a {
     font-weight: bold;
     font-size:x-large;
 }
-legend a:link { #BEED76;
+legend a:link { 
+    color: #BEED76;
 }
